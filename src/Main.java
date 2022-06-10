@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-    PalindromeNumber.print(1);
+    PalindromeNumber.print(12);
     }
 }
